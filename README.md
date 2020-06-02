@@ -1,4 +1,4 @@
-### HACKATHON NASA COVID CHALLENGE A ARTE DE TUDO
+# HACKATHON NASA COVID CHALLENGE A ARTE DE TUDO
 
 ## BOLDEN6BR         EQUIPE-192
 
@@ -38,7 +38,7 @@ Gustavo Henrique
 
 “Sempre saio usando máscara, evito aglomerações, iniciei cursos à distância pagos e gratuitos e não pretendo mais fazer cursos presenciais”
 
-Jaqueeline Louise
+Jaqueline Louise
 
 “A partir de agora dar valor a nossa rotina e as pessoas que estão próximas são fundamentais.”
 
